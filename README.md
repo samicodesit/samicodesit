@@ -9,7 +9,7 @@
 
 [![Sami's github stats](https://github-readme-stats.vercel.app/api?username=samicodesit&theme=algolia&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samicodesit)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samicodesit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
