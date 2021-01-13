@@ -7,6 +7,7 @@
 - ⚡ Fun fact: +11,000 hours played on Dota 2
 
 
-[![Sami's github stats](https://github-readme-stats.vercel.app/api?username=samicodesit&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Sami's github stats](https://github-readme-stats.vercel.app/api?username=samicodesit&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samicodesit)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
