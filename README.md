@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Front End Engineer @robusta, @olx-mena, @Knawat
+- 🔭 Front End Engineer @olx-mena
 - 🌱 I’m currently learning how to write better tests
-- 💬 Ask me about anything front end related
+- 💬 Ask me about anything front-end related
 - 📫 How to reach me: samicodesit@gmail.com, +201025044773, https://www.linkedin.com/in/samicodesit/
 - ⚡ Fun fact: +11,000 hours played on Dota 2
 
