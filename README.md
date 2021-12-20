@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Front End Engineer @olx-mena
+- 🔭 Front End Engineer @Coolblue
 - 🌱 I’m currently learning how to write better tests
 - 💬 Ask me about anything front-end related
 - 📫 How to reach me: samicodesit@gmail.com, +201025044773, https://www.linkedin.com/in/samicodesit/
