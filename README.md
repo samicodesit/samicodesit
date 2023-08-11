@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Front End Engineer @Coolblue
-- 🌱 I’m currently learning how to write better tests
+- 🔭 Senior Front End Engineer @Coolblue
+- 🌱 Currently learning to make better architectural decisions
 - 💬 Ask me about anything front-end related
 - 📫 How to reach me: samicodesit@gmail.com, +31619942565, https://www.linkedin.com/in/samicodesit/
 - ⚡ Fun fact: +12,000 hours played on Dota 2
